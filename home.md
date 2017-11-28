@@ -1,5 +1,5 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: Главная страница -->
+<!-- SUBTITLE: Описание системы -->
 
 # Мангазея ERP - самая лучшая ERP в мире
 ## Назначение системы
